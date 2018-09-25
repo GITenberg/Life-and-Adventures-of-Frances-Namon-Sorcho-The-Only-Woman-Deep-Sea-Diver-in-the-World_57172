@@ -1,11 +1,16 @@
 _repo: Life-and-Adventures-of-Frances-Namon-Sorcho-The-Only-Woman-Deep-Sea-Diver-in-the-World_57172
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57172-h/images/cover.jpg
 creator:
   author:
     agent_name: Captain Louis Sorcho Great Deep Sea Diving Co.
     gutenberg_agent_id: '49223'
     url: http://www.gutenberg.org/2009/agents/49223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57172#Life-and-Adventures-of-Frances-Namon-Sorcho-The-Only-Woman-Deep-Sea-Diver-in-the-World
 gutenberg_issued: '2018-05-16'
 gutenberg_type: Text
 identifiers:
